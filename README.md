@@ -15,10 +15,13 @@ A weather Telegram bot that will show you the weather in any cities you want
    git clone https://github.com/z1ppyyy/Weather-Bot.git
    ```
 
-2. Once you have installed the bot open the config.py fileand change 'TOKEN' to your own API key:
+2. Once you have installed the bot open the config.py fileand change 'TOKEN' to your own API keys:
    
    ```shell
    TOKEN = "Your API Token"
+   ```
+   ```shell
+   API_KEY = 'Your Weather API KEY'
    ```
 
 3. Run the bot:
