@@ -1,5 +1,5 @@
 # Weather-Bot
-A weather Telegram bot that will show you the weather in any cities you want
+The Weather Telegram Bot will show you the weather in any cities you want
 
 # Features
 • Leverages Telegram for user interaction.
